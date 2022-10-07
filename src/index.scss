@@ -1,0 +1,16 @@
+@import "scss/abstracts/variables";
+@import "scss/abstracts/mixins";
+
+@import "scss/vendors/bootstrap";
+
+@import "scss/base/reset";
+@import "scss/base/typography";
+
+@import "scss/layout/header";
+@import "scss/layout/sidebar";
+
+// components
+
+@import "scss/pages/home";
+
+@import "scss/themes/theme";
